@@ -2,6 +2,8 @@
 
 Preprint on bioRxiv: https://doi.org/10.1101/2022.09.24.509304
 
+#### Note: In the following data/plots, "u12" is sometimes used interchangeably for minor intron/MIG, and "u2" for major intron/non-MIG.
+
 ### Static figures
 * [A circular tree representation of the full minor intron metadata dataset](https://glarue.github.io/minor_introns/figs/u12_diversity_circular.pdf)
 * [A rectangular tree representation of the full minor intron metadata dataset (easier to search)](https://glarue.github.io/minor_introns/figs/u12_diversity_rectangular.pdf)
