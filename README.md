@@ -1,4 +1,4 @@
-# Metadata and figures associated with the preprint manuscript Where the Minor Things Are: A Survey of Minor Spliceosomal Introns in Thousands of Eukaryotic Genomes
+# Metadata and figures associated with the preprint manuscript "Where the Minor Things Are: A Survey of Minor Spliceosomal Introns in Thousands of Eukaryotic Genomes"
 
 Preprint on bioRxiv: https://doi.org/10.1101/2022.09.24.509304
 
