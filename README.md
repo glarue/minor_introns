@@ -1,8 +1,6 @@
-# Metadata and figures associated with the preprint manuscript "Where the Minor Things Are: A Survey of Minor Spliceosomal Introns in Thousands of Eukaryotic Genomes"
+# Metadata and figures associated with the accepted manuscript "Where the Minor Things Are: A Pan-Eukaryotic Survey Suggests Neutral Processes May Explain Much of Minor Intron Evolution"
 
 Preprint on bioRxiv: https://doi.org/10.1101/2022.09.24.509304
-
-#### Note: In the following data/plots, "u12" is sometimes used for minor intron/MIG, and "u2" for major intron/non-MIG.
 
 ### Static figures
 * [A linear tree representation of the full minor intron metadata dataset (easier to search)](https://glarue.github.io/minor_introns/figs/Larue_Roy_2023_full_tree_linear.pdf)
