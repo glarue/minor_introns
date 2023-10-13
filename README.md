@@ -1,6 +1,4 @@
-# Metadata and figures associated with the accepted manuscript "Where the Minor Things Are: A Pan-Eukaryotic Survey Suggests Neutral Processes May Explain Much of Minor Intron Evolution"
-
-Preprint on bioRxiv: https://doi.org/10.1101/2022.09.24.509304
+## Metadata and figures associated with the article ["Where the minor things are: a pan-eukaryotic survey suggests neutral processes may explain much of minor intron evolution"](https://doi.org/10.1093/nar/gkad797) in _Nucleic Acids Research_
 
 ### Static figures
 * [A linear tree representation of the full minor intron metadata dataset (easier to search)](https://glarue.github.io/minor_introns/figs/Larue_Roy_2023_full_tree_linear.pdf)
